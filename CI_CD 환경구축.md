@@ -1,5 +1,4 @@
 # 1. CI/CD 구축을 위한 환경설정
-# THIS IS HEAD
 ## 1-1 DOCKER 설치
 i) CI/CD 구동을 위한 CentOS 8을 설치하기 위하여 Docker DeskTop for Window 설치
 ii) 관리자의 가상화 부분 true로 변경
