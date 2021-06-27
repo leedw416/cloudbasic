@@ -5,7 +5,9 @@
 ![Docker DeskTop Download 받는법](./CI_CD_Images/dockerdesktop.png)
 &nbsp;[그림1]&nbsp;아래 그림에서 __Get Docker__ 를 클릭한다.  
   
-#### ii) 관리자의 가상화 부분 true로 변경  
+#### ii) 관리자의 가상화 부분 true로 변경
+![작업관리자_가상화](./CI_CD_Images/system_mgt_virtul.png)
+
 
 #### iii) 제어판 > 프로그램 설치 및 제거 > Window 기능 켜기/끄기 클릭 > Hyper-V 체크 확인 후 리부팅  (이문제 아니었다 이건 끄고도 되는지 다시해보자)
 #### iv) WSL 2 installation is incomplete. 이 에러 발생하여
