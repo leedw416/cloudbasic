@@ -19,4 +19,7 @@
 #### v) Bios 가상화 가능하도록 셋업 (BIOS 진입을 위하여 컴퓨터 부팅 중 F2 또는 Delete 버튼 누름) 
 ![SVMmode](./CI_CD_Images/svm_mode3.png)
 
+## 1-2 Centos 설치 및 실행  
+ #### i) cmd 창에서 docker 로그인 한 후 centos 이미지 다운로드
+![Docker DeskTop Download 받는법](./CI_CD_Images/docker_centos_image.png)
 
