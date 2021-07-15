@@ -25,5 +25,8 @@
  #### ii) image 확인 후 container 실행  
  docker run -i -t centos /bin/bash : 일반적 실행  
  docker run -i -t -d centos /bin/bash :백그라운드 실행 (-d 가 백그라운드 옵션)  
-![Docker Run](./CI_CD_Images/dockerun.png)
+![Docker Run](./CI_CD_Images/dockerun1.png)  
+#### ii) Container ip 확인  
+![Docker Run](./CI_CD_Images/docker_container.png)
+
 
